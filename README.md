@@ -1,4 +1,4 @@
-# welcome_flutter
+# FlutterWelcome
 
 First Flutter application.
 
